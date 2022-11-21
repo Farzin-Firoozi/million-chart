@@ -1,0 +1,5 @@
+.ant-table-cell,
+.virtual-table-cell {
+  width: 100px;
+  text-align: center;
+}
